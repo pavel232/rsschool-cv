@@ -50,7 +50,7 @@ int main (void)
 
 ## **Experience**<br>
 ### Additional education<br>
-*septenber 2019 - present*: RS Schools<br> Javascript/HTML/CSS developer<br>
+*septenber 2019 - february 2020*: RS Schools<br> Javascript/HTML/CSS developer<br>
 *september 2011 - february 2017*: Belorussian State University of Informatics asd Radioelectronics<br> electronics engineer<br>
 ### Work experience<br>
 *april 2019 - present*: JSC Banks Processing Center<br> Ingeneer<br>
